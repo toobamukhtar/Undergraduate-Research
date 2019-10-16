@@ -1,7 +1,7 @@
 # Undergraduate-Research
 
 ## Final Year Project Report
-### Title: 
+### Title: Dimensionality Reduction in Autoencoders for Unsupervised Learning
 
 
 
