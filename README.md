@@ -3,9 +3,7 @@
 ## Final Year Project Report
 ### Title: Dimensionality Reduction in Autoencoders for Unsupervised Learning
 
-
-
-
+Developments in imaging technology have resulted in the extremely large datasets, however, learning any useful information from these datasets, particularly using modern deep learning architectures, require large amount of annotations. Although initiatives such as ImageNet challenge and those related to Autonomous Vehicles provide such annotated data, however they are only limited to street level imagery. In many areas, such as remote sensing, there is a dearth of annotated datasets.Thus, there is a dire need of a method that allows unsupervised learning of features that are distinctive, posses reconstruction capability and are effectively compact.
 
 
 ## Published Undergraduate Research - International Conference on Image Analysis and Processing
